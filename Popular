@@ -1,9 +1,7 @@
 {
 
   "status":true,
-  "movies":[
-   {
-"img":"https://raw.githubusercontent.com/mymoneysearch/telegram-/main/2024010400073204.jpg",
+
      "movies":[
 {
   "img":"https://raw.githubusercontent.com/mymoneysearch/telegram-/main/2024010400073204.jp",
@@ -122,4 +120,4 @@
   ]
 }
   
-  ]}
+  
